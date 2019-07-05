@@ -3,8 +3,8 @@ package leetcode;
 public class LongPalindromicSubstring {
 	
 	public static void main(String[] args) {
-		
-		String str = new Solution().longPalStr("cbbd");
+		Solution s = new Solution();
+		String str = s.longPalStr("cbbd");
 		System.out.println(str);
 	}
 	
