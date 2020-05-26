@@ -81,7 +81,8 @@ public class RomanToInterger {
                 return 500;
             case 'M':
                 return 1000;
+            default:
+                return 0;
         }
-        return 0;
     }
 }
