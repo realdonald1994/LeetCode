@@ -16,7 +16,7 @@ reviewed time to time.
 ### Easy
 - [28. Implement strStr](./docs/notes/String/easy/28_Implement%20strStr().md)
 - [344. Reverse String](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/String/easy/344_reverse_string.md)
-- [13. Roman to Integer](./docs/notes/String/easy/13_Roman_ToInteger.md)
+- **[13. Roman to Integer](./docs/notes/String/easy/13_Roman_ToInteger.md)**
 
 ---
 
