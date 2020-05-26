@@ -14,6 +14,6 @@ reviewed time to time.
 
 ## 1. String
 ### Easy
-- [28. Implement strStr()](./docs/notes/Array/easy/28_Implement strStr().md)
+- [28. Implement strStr](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/Array/easy/28_Implement%20strStr().md)
 
 
