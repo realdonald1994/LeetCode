@@ -14,7 +14,7 @@ reviewed time to time.
 
 ## 1. String
 ### Easy
-- [28. Implement strStr](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/Array/easy/28_Implement%20strStr().md)
+- [28. Implement strStr](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/String/easy/28_Implement%20strStr().md)
 - [344. Reverse String](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/String/easy/344_reverse_string.md)
 
 
