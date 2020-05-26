@@ -20,6 +20,6 @@ reviewed time to time.
 ---
 
 # Summary of data structures and algorithms
-
+- [字符串问题](./thinkings/string.md)
 
 
