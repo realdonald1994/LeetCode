@@ -17,4 +17,9 @@ reviewed time to time.
 - [28. Implement strStr](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/String/easy/28_Implement%20strStr().md)
 - [344. Reverse String](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/String/easy/344_reverse_string.md)
 
+---
+
+# Summary of data structures and algorithms
+
+
 
