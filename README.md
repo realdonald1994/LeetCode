@@ -14,6 +14,6 @@ reviewed time to time.
 
 ## 1. String
 ### Easy
-- [1. Two Sum](./docs/notes/easy/1_Two_Sum.md)
+- [28. Implement strStr()](./docs/notes/Array/easy/28_Implement strStr().md)
 
 
