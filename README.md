@@ -1,6 +1,6 @@
 # Leetcode 
 
-![](https://raw.githubusercontent.com/realdonald1994/blog-resources/master/img/leetcode.jpeg)
+<center>![](https://raw.githubusercontent.com/realdonald1994/blog-resources/master/img/leetcode.jpeg)</center>
 
 
 Those problems with **bold** are the ones that I can't solve before reading the solution. They need to be
