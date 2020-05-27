@@ -17,7 +17,7 @@ reviewed time to time.
 - [344. Reverse String](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/String/easy/344_reverse_string.md)
 - **[13. Roman to Integer](./docs/notes/String/easy/13_Roman_ToInteger.md)**
 - [14. Longest Common Prefix](./docs/notes/String/easy/14_Longest_Common_Prefix.md)
-- [20. Valid Parentheses](./docs/notes/String/easy/20_Valid_Parentheses.md)
+- **[20. Valid Parentheses](./docs/notes/String/easy/20_Valid_Parentheses.md)**
 
 ---
 
