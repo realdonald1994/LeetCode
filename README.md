@@ -21,5 +21,6 @@ reviewed time to time.
 
 # Data structures and Algorithms
 - [String](./thinkings/string.md)
+- [Data Structure](./thinkings/Data_Structure.md)
 
 
