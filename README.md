@@ -15,9 +15,9 @@ reviewed time to time.
 ### Easy
 - [28. Implement strStr](./docs/notes/String/easy/28_Implement%20strStr().md)
 - [344. Reverse String](https://github.com/realdonald1994/LeetCode/blob/master/docs/notes/String/easy/344_reverse_string.md)
-- **[13. Roman to Integer](./docs/notes/String/easy/13_Roman_ToInteger.md)**
+- **[13. Roman to Integer](./docs/notes/String/easy/13_Roman_ToInteger.md)** :star:
 - [14. Longest Common Prefix](./docs/notes/String/easy/14_Longest_Common_Prefix.md)
-- **[20. Valid Parentheses](./docs/notes/String/easy/20_Valid_Parentheses.md)**
+- **[20. Valid Parentheses](./docs/notes/String/easy/20_Valid_Parentheses.md)** :star:
 
 ---
 
