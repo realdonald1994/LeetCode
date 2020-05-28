@@ -18,6 +18,7 @@ reviewed time to time.
 - **[13. Roman to Integer](./docs/notes/String/easy/13_Roman_ToInteger.md)** :star:
 - [14. Longest Common Prefix](./docs/notes/String/easy/14_Longest_Common_Prefix.md)
 - **[20. Valid Parentheses](./docs/notes/String/easy/20_Valid_Parentheses.md)** :star:
+- [58. Length Of Lastword](./docs/notes/String/easy/58_length_of_lastword.md)
 
 ---
 
