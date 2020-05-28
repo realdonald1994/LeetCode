@@ -5,9 +5,9 @@ The better solution use map API:<br/>
 
 > map.getOrDefault(key,0);
 
-'''java
+```java
 public Object getOrDefault(Object key, Object defaultValue)
-'''
+```
 
 ### Solution
 
