@@ -19,6 +19,7 @@ reviewed time to time.
 - [14. Longest Common Prefix](./docs/notes/String/easy/14_Longest_Common_Prefix.md)
 - **[20. Valid Parentheses](./docs/notes/String/easy/20_Valid_Parentheses.md)** :star:
 - [58. Length Of Lastword](./docs/notes/String/easy/58_length_of_lastword.md)
+- [345. Reverse Vowels of a String](./docs/notes/String/easy/345_reverse_vowelsOfString.md)
 
 ---
 
