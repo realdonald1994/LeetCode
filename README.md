@@ -21,7 +21,7 @@ reviewed time to time.
 - [58. Length Of Lastword](./docs/notes/String/easy/58_length_of_lastword.md)
 - **[345. Reverse Vowels of a String](./docs/notes/String/easy/345_reverse_vowelsOfString.md)** :star:
 - [383. Ransom Note](./docs/notes/String/easy/383_Ransom_Note.md) :arrow_left:
-- [387. First Unique Character in a String](./docs/notes/String/easy/387_First Unique_Character_inaString.md)
+- [387. First Unique Character in a String](./docs/notes/String/easy/387_First_Unique_Character_inaString.md)
 
 ---
 
