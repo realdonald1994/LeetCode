@@ -22,7 +22,7 @@ reviewed time to time.
 - **[345. Reverse Vowels of a String](./docs/notes/String/easy/345_reverse_vowelsOfString.md)** :star:
 - [383. Ransom Note](./docs/notes/String/easy/383_Ransom_Note.md) :arrow_left:
 - [387. First Unique Character in a String](./docs/notes/String/easy/387_First_Unique_Character_inaString.md) :arrow_backward:
-- **[459. Repeated Substring Pattern](./docs/notes/String/east/459_Repeated_Substring_Pattern.md)** :star:
+- **[459. Repeated Substring Pattern](./docs/notes/String/easy/459_Repeated_Substring_Pattern.md)** :star:
 
 ---
 
