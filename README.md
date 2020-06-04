@@ -9,7 +9,7 @@ reviewed time to time.
 # About me
 ![wjlogo.png](https://raw.githubusercontent.com/realdonald1994/blog-resources/master/img/blog.png)
 
-**My blog:** [https://github.com/realdonald1994/WhiteJotter_Vue](https://github.com/realdonald1994/WhiteJotter_Vue)
+**My blog:** [White Jotter](http://www.whitejotter.site)
 
 ## 1. String
 ### Easy
