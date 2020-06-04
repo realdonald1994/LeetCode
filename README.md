@@ -29,6 +29,8 @@ reviewed time to time.
 ### Easy  
 - [1. Two Sum](./docs/notes/Array/1_TwoSum.md) 
 - **[26. Remove Duplications from Sorted Array](./docs/notes/Array/26_Remove_Duplications_from_sorted_array.md)**
+- [35. Search Insert Position](./docs/notes/Array/35_Search_Insert_Position.md)
+
 ---
 
 # Data structures and Algorithms
