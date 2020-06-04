@@ -30,7 +30,7 @@ reviewed time to time.
 - [1. Two Sum](./docs/notes/Array/1_TwoSum.md) 
 - **[26. Remove Duplications from Sorted Array](./docs/notes/Array/26_Remove_Duplications_from_sorted_array.md)**
 - [35. Search Insert Position](./docs/notes/Array/35_Search_Insert_Position.md)
-- [53. Maximum Subarray](./docs/notes/Array/53_Maximum_Subarray.md)
+- **[53. Maximum Subarray](./docs/notes/Array/53_Maximum_Subarray.md)**
 
 ---
 
