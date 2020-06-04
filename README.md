@@ -27,7 +27,7 @@ reviewed time to time.
 
 ## 2. Array  
 ### Easy  
--- 1. Two Sum
+- 1. Two Sum
 ---
 
 # Data structures and Algorithms
