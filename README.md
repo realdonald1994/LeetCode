@@ -31,6 +31,7 @@ reviewed time to time.
 - **[26. Remove Duplications from Sorted Array](./docs/notes/Array/26_Remove_Duplications_from_sorted_array.md)**
 - [35. Search Insert Position](./docs/notes/Array/35_Search_Insert_Position.md)
 - **[53. Maximum Subarray](./docs/notes/Array/53_Maximum_Subarray.md)**
+- [66. Plus One](./docs/notes/Array/66_PlusOne.md)
 
 ---
 
