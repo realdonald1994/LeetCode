@@ -24,6 +24,10 @@ reviewed time to time.
 - [387. First Unique Character in a String](./docs/notes/String/easy/387_First_Unique_Character_inaString.md) :arrow_backward:
 - **[459. Repeated Substring Pattern](./docs/notes/String/easy/459_Repeated_Substring_Pattern.md)** :star:
 
+
+## 2. Array  
+### Easy  
+-- 1. Two Sum
 ---
 
 # Data structures and Algorithms
