@@ -27,7 +27,8 @@ reviewed time to time.
 
 ## 2. Array  
 ### Easy  
-- 1. Two Sum
+- 1. Two Sum  
+- **[26. Remove Duplications from Sorted Array](./docs/notes/Array/26_Remove_Duplications_from_sorted_array.md)**
 ---
 
 # Data structures and Algorithms
