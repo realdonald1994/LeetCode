@@ -32,6 +32,7 @@ reviewed time to time.
 - [35. Search Insert Position](./docs/notes/Array/35_Search_Insert_Position.md)
 - **[53. Maximum Subarray](./docs/notes/Array/53_Maximum_Subarray.md)** :star:
 - [66. Plus One](./docs/notes/Array/66_PlusOne.md)
+- **[88. Merge Sorted Array](./docs/notes/Array/88_Merge_sorted_array.md)** :star:
 
 ---
 
