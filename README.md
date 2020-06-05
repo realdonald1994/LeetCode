@@ -34,6 +34,7 @@ reviewed time to time.
 - [66. Plus One](./docs/notes/Array/66_PlusOne.md)
 - **[88. Merge Sorted Array](./docs/notes/Array/88_Merge_sorted_array.md)** :star:
 - [118. Pascal's Triangle](./docs/notes/Array/118_Pascal_Triangle.md)
+- [119. Pascal's Triangle](./docs/notes/Array/119_Pascal_Trinangle2.md)
 
 ---
 
