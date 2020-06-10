@@ -38,6 +38,10 @@ reviewed time to time.
 - [119. Pascal's Triangle II](./docs/notes/Array/119_Pascal_Trinangle2.md)
 - **[121. Best Time to Buy and Sell Stock](./docs/notes/Array/121_BuyAndSell_Stock.md)** :arrow_left:
 
+## 3. Tree
+### Easy
+- [100. Same Tree](./docs/notes/Tree/100_Same_Tree.md)
+
 ---
 
 # Data structures and Algorithms
