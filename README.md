@@ -40,7 +40,7 @@ reviewed time to time.
 
 ## 3. Tree
 ### Easy
-- [100. Same Tree](./docs/notes/Tree/100_Same_Tree.md)
+- **[100. Same Tree](./docs/notes/Tree/100_Same_Tree.md)** :star:
 
 ---
 
