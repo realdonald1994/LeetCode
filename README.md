@@ -26,6 +26,7 @@ reviewed time to time.
 - [520. Detect Capital](./docs/notes/String/easy/520_Detect_Capital.md)
 - [521. Longest Uncommon Subsequence I]()
 - [541. Reverse String II](./docs/notes/String/easy/541_Reverse_String2.md)
+- [551. Student Attendance Record I](./docs/notes/String/easy/551_Student_Attendence_Record1.md)
 
 
 ## 2. Array  
